@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Rill — Music, considered",
+  "short_name": "Rill",
+  "description": "A considered place to listen, collect, and discover music.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f7f7f2",
+  "theme_color": "#fa233b",
+  "icons": [
+    { "src": "./rill-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
